@@ -1,0 +1,9 @@
+<h2>Listando Cat Facts no Home Component por Observable:</h2>
+
+<div *ngIf="listOfCats$ | async as listOfFacts">
+    <ul>
+        <li *ngFor="let item of listOfFacts.data">
+            {{item.fact}}
+        </li>
+    </ul>
+</div>
