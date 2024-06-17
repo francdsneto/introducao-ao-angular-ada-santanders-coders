@@ -1,4 +1,4 @@
-# Projeto Angular - ADA - Santanders Coders 2024
+# Projeto Angular - ADA - Santander Coders 2024
 > Status: Concluido
 
 Projeto de acompanhamento do curso de Introdução ao Angular da ADA - Santanders Coders 2024
