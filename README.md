@@ -1,4 +1,7 @@
-# Mercado
+# Projeto Angular - ADA - Santanders Coders 2024
+> Status: Concluido
+
+Projeto de acompanhamento do curso de Introdução ao Angular da ADA - Santanders Coders 2024
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
